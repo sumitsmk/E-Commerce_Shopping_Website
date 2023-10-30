@@ -1,0 +1,7 @@
+.ptitle {
+  text-decoration: none;
+}
+
+.ptitle:hover {
+  text-decoration: underline;
+}
